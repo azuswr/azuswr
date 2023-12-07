@@ -10,7 +10,6 @@
 - 📫 How to reach me discord.gg/owlsec , kail.kesug.com 
 
 ### Languages and Tools:
-
 [![Python][python-shield]][python-url]
 [![Bash][bash-shield]][bash-url]
 [![Kali Linux][kali-linux-shield]][kali-linux-url]
