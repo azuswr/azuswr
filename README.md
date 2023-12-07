@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://profile-counter.glitch.me/pentestfunctions/count.svg">
+  <img src="https://profile-counter.glitch.me/azuswr/count.svg">
 </p>
 # Whoami
 - 👋 Hi, I’m Lt.Simon.Ghost aka azuswr
