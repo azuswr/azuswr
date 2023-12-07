@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://github.com/azuswr/azuswr/azuswr.png">
+</p>
+<p align="center">
   <img src="https://profile-counter.glitch.me/azuswr/count.svg">
 </p>
 
