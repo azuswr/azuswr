@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/azuswr/azuswr/azuswr.png](https://github.com/azuswr/azuswr/blob/main/azuswr.png)">
+  <img src="https://github.com/azuswr/azuswr/blob/main/azuswr.png">
 </p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/azuswr/count.svg">
