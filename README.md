@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://profile-counter.glitch.me/pentestfunctions/count.svg">
+</p>
 # Whoami
 - 👋 Hi, I’m Lt.Simon.Ghost aka azuswr
 - 👀 I’m interested in CyberSec & WebDev
