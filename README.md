@@ -10,7 +10,7 @@
 - 👀 I’m interested in CyberSec & WebDev
 - 🌱 I’m currently learning Python/Bash,zsh/C/WebDev/Unix 
 - 💞️ I’m looking to collaborate on HackTheBox/TryHackMe
-- 📫 How to reach me discord.gg/owlsec , kail.kesug.com 
+- 📫 How to reach me discord.gg/owlsec 
 
 ### Languages and Tools:
 [![Python][python-shield]][python-url]
