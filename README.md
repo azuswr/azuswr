@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/azuswr/azuswr/blob/main/azuswr.png" style=max-width: 300px;  alt="Sir Simon's Emblem" class="rounded-image">
+  <img src="https://github.com/azuswr/azuswr/blob/main/azuswr.png" style="max-width: 100px;" alt="Sir Simon's Emblem" class="rounded-image">
 </p>
 
 <p align="center">
