@@ -58,3 +58,4 @@ azuswr/azuswr is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 ![azuswr' GitHub Stats](https://github-readme-stats.vercel.app/api?username=azuswr&show_icons=true&theme=radical)
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
