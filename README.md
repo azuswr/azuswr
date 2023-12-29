@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Python/Bash,zsh/C/WebDev/Unix 
 - 💞️ I’m looking to collaborate on HackTheBox/TryHackMe
 - 📫 How to reach me discord.gg/owlsec 
-
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 ### Languages and Tools:
 [![Python][python-shield]][python-url]
 [![Bash][bash-shield]][bash-url]
@@ -24,7 +24,7 @@
 [![CSS3][css3-shield]][css3-url]
 [![Wireshark][wireshark-shield]][wireshark-url]
 [![Nmap][nmap-shield]][nmap-url]
-
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 <!-- Shields Links -->
 [python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [python-url]: https://python.org
@@ -50,7 +50,7 @@
 [nmap-url]: https://nmap.org/
 
 
-
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 
 
 <!---
