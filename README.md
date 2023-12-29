@@ -2,16 +2,6 @@
   <img src="https://github.com/azuswr/azuswr/blob/main/azuswr.png" alt="Sir Simon's Emblem" class="rounded-image">
 </p>
 
-<style>
-  /* Applying styles to achieve a round image with dimensions 400x400 pixels */
-  .rounded-image {
-    border-radius: 50%;
-    width: 400px;
-    height: 400px;
-    object-fit: cover;
-  }
-</style>
-
 <p align="center">
   <img src="https://profile-counter.glitch.me/azuswr/count.svg">
 </p>
